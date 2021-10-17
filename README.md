@@ -6,3 +6,4 @@ life isn't dattebayo anymore. :(
 Sasukeeeee
 narutooooo
 sasukeeeee
+Naruto
