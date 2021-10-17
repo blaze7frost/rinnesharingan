@@ -4,4 +4,5 @@ this is a trial repository for hacktober fest 20-21
 <br/>
 life isn't dattebayo anymore. :(
 Sasukeeeee
-naruto
+narutooooo
+sasukeeeee
