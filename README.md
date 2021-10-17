@@ -1,2 +1,3 @@
 # rinnesharingan
 A naruto based Dattebayo project for Hacktoberfest 2021.
+this is a trial repository for hacktober fest 20-21
